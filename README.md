@@ -29,10 +29,12 @@ Built around complex business rules, corporate data integrations, credit analysi
 
 `Next.js` `TypeScript` `Node.js` `Java` `PostgreSQL` `Docker` `AI`
 
-### Generative Art & Web3
-Worked within the HashLips ecosystem on generative art and Web3 tooling, including NFT generation, smart contracts, and decentralized applications.
+### [Orion Art Engine](https://github.com/OrionDevStar/orion_art_engine)
+An extended generative-art engine built from the HashLips Art Engine ecosystem, with substantial tooling for complex NFT collection generation and metadata workflows.
 
-`JavaScript` `Node.js` `Solidity` `Ethereum` `Web3`
+Key extensions include conditional trait generation, compatibility rules and forced combinations, exact and named rarity controls, GIF generation, staged metadata/image generation, IPFS utilities, multi-network metadata, Z-index and subtrait controls, generation recovery, and metadata tooling.
+
+`JavaScript` `Node.js` `Generative Art` `NFT Metadata` `IPFS`
 
 ### Qualified Devs
 Co-founded a Web3 development company and contributed to the delivery of **200+ projects** for international clients.
